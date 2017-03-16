@@ -1,3 +1,5 @@
+The Human generated stories and the automatic generated stories by the DSA framework
+
 *The naming convension for each story is the collection ID + (Broad/Site/Time)
 
 * SPST refers to Sliding Pages, Sliding Time - broad summary of different URIs through time that provides an overview of the collection from different Web sites.
